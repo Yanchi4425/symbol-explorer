@@ -5,7 +5,7 @@
         "statisticsService": "http://statistics.oe-jpy.com/"
     },
     "networkConfig": {
-        "namespaceName": "cbdp/cbdp",
+        "namespaceName": "cbdp.cbdp",
         "namespaceId": "6FF84A1DD2606697",
         "divisibility": "6"
     },
